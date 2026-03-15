@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "15.03.2026 21:53:54",
-  "guncellenme_utc": "2026-03-15T21:53:54.013136+00:00",
+  "guncellenme_local": "15.03.2026 22:13:15",
+  "guncellenme_utc": "2026-03-15T22:13:15.536107+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,68 +67,68 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.134,
-      "satis": 44.331
+      "alis": 44.145,
+      "satis": 44.319
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 50.4,
-      "satis": 50.718
+      "alis": 50.427,
+      "satis": 50.719
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 58.145,
-      "satis": 58.89
+      "alis": 58.158,
+      "satis": 58.875
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2728,
-      "satis": 0.2784
+      "alis": 0.2727,
+      "satis": 0.2782
     },
     {
       "isim": "S. Arabistan Riyali",
-      "alis": 11.695,
-      "satis": 11.854
+      "alis": 11.698,
+      "satis": 11.851
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.259,
-      "satis": 30.983
+      "alis": 30.27,
+      "satis": 30.979
     },
     {
       "isim": "Kanada Doları",
-      "alis": 31.872,
-      "satis": 32.378
+      "alis": 31.893,
+      "satis": 32.384
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4948,
-      "satis": 0.5909
+      "alis": 0.4949,
+      "satis": 0.5907
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.526,
-      "satis": 26.373
+      "alis": 24.532,
+      "satis": 26.366
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.822,
-      "satis": 6.95
+      "alis": 5.831,
+      "satis": 6.957
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.515,
-      "satis": 10.087
+      "alis": 8.527,
+      "satis": 10.096
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.005,
-      "satis": 12.664
+      "alis": 11.007,
+      "satis": 12.661
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 130.72,
-      "satis": 147.149
+      "alis": 130.752,
+      "satis": 147.11
     }
   ]
 }
