@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "18.03.2026 21:32:20",
-  "guncellenme_utc": "2026-03-18T21:32:20.526059+00:00",
+  "guncellenme_local": "18.03.2026 22:00:34",
+  "guncellenme_utc": "2026-03-18T22:00:34.764359+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -11,12 +11,12 @@
     {
       "isim": "Has Toptan",
       "alis": 7064.23,
-      "satis": 7171.1
+      "satis": 7171.12
     },
     {
       "isim": "Külçe Toptan",
       "alis": 7028.91,
-      "satis": 7135.25
+      "satis": 7135.26
     },
     {
       "isim": "Ata Cumhuriyet",
@@ -72,8 +72,8 @@
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 50.928,
-      "satis": 51.295
+      "alis": 50.909,
+      "satis": 51.275
     },
     {
       "isim": "İngiliz Sterlini",
@@ -82,7 +82,7 @@
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2747,
+      "alis": 0.2748,
       "satis": 0.2806
     },
     {
@@ -92,13 +92,13 @@
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.68,
-      "satis": 31.442
+      "alis": 30.676,
+      "satis": 31.438
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.15,
-      "satis": 32.69
+      "alis": 32.153,
+      "satis": 32.693
     },
     {
       "isim": "Rus Rublesi",
@@ -113,7 +113,7 @@
     {
       "isim": "Çin Yuanı",
       "alis": 5.878,
-      "satis": 7.022
+      "satis": 7.023
     },
     {
       "isim": "Romanya Leyi",
@@ -127,8 +127,8 @@
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.175,
-      "satis": 148.917
+      "alis": 132.188,
+      "satis": 148.932
     }
   ]
 }
