@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "19.03.2026 13:46:24",
-  "guncellenme_utc": "2026-03-19T13:46:24.833281+00:00",
+  "guncellenme_local": "19.03.2026 14:35:38",
+  "guncellenme_utc": "2026-03-19T14:35:38.134614+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,68 +67,68 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.623,
-      "satis": 44.864
+      "alis": 44.618,
+      "satis": 44.861
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.111,
-      "satis": 51.504
+      "alis": 51.276,
+      "satis": 51.672
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 59.068,
-      "satis": 59.882
+      "alis": 59.319,
+      "satis": 60.14
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2774,
-      "satis": 0.2833
+      "alis": 0.278,
+      "satis": 0.284
     },
     {
       "isim": "S. Arabistan Riyali",
-      "alis": 11.82,
-      "satis": 11.992
+      "alis": 11.819,
+      "satis": 11.99
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.664,
-      "satis": 31.427
+      "alis": 30.805,
+      "satis": 31.573
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.213,
-      "satis": 32.756
+      "alis": 32.214,
+      "satis": 32.759
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4661,
-      "satis": 0.5572
+      "alis": 0.4657,
+      "satis": 0.5566
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.797,
-      "satis": 26.69
+      "alis": 24.795,
+      "satis": 26.688
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.891,
-      "satis": 7.038
+      "alis": 5.895,
+      "satis": 7.043
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.653,
-      "satis": 10.26
+      "alis": 8.681,
+      "satis": 10.293
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.126,
-      "satis": 12.816
+      "alis": 11.125,
+      "satis": 12.815
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.542,
-      "satis": 149.341
+      "alis": 132.624,
+      "satis": 149.439
     }
   ]
 }
