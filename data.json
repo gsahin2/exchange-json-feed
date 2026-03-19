@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "19.03.2026 23:44:28",
-  "guncellenme_utc": "2026-03-19T23:44:28.788408+00:00",
+  "guncellenme_local": "19.03.2026 23:59:00",
+  "guncellenme_utc": "2026-03-19T23:59:00.568870+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -72,7 +72,7 @@
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.52,
+      "alis": 51.521,
       "satis": 51.941
     },
     {
@@ -82,8 +82,8 @@
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2784,
-      "satis": 0.2845
+      "alis": 0.2785,
+      "satis": 0.2846
     },
     {
       "isim": "S. Arabistan Riyali",
@@ -92,13 +92,13 @@
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.949,
-      "satis": 31.735
+      "alis": 30.944,
+      "satis": 31.73
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.191,
-      "satis": 32.75
+      "alis": 32.186,
+      "satis": 32.745
     },
     {
       "isim": "Rus Rublesi",
@@ -127,8 +127,8 @@
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.614,
-      "satis": 149.495
+      "alis": 132.618,
+      "satis": 149.499
     }
   ]
 }
