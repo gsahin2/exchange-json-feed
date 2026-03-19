@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "19.03.2026 16:14:20",
-  "guncellenme_utc": "2026-03-19T16:14:20.174399+00:00",
+  "guncellenme_local": "19.03.2026 17:14:54",
+  "guncellenme_utc": "2026-03-19T17:14:54.353439+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,68 +67,68 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.618,
+      "alis": 44.566,
       "satis": 44.86
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.328,
-      "satis": 51.724
+      "alis": 51.331,
+      "satis": 51.786
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 59.354,
-      "satis": 60.175
+      "alis": 59.338,
+      "satis": 60.228
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2783,
-      "satis": 0.2842
+      "alis": 0.2781,
+      "satis": 0.2844
     },
     {
       "isim": "S. Arabistan Riyali",
-      "alis": 11.819,
+      "alis": 11.806,
       "satis": 11.991
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.796,
-      "satis": 31.564
+      "alis": 30.751,
+      "satis": 31.554
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.237,
-      "satis": 32.782
+      "alis": 32.178,
+      "satis": 32.76
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4653,
+      "alis": 0.4648,
       "satis": 0.5562
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.794,
+      "alis": 24.765,
       "satis": 26.688
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.894,
-      "satis": 7.043
+      "alis": 5.893,
+      "satis": 7.049
     },
     {
       "isim": "Romanya Leyi",
       "alis": 8.694,
-      "satis": 10.309
+      "satis": 10.321
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.123,
-      "satis": 12.813
+      "alis": 11.11,
+      "satis": 12.812
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.575,
-      "satis": 149.384
+      "alis": 132.463,
+      "satis": 149.43
     }
   ]
 }
