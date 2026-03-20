@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "20.03.2026 11:55:43",
-  "guncellenme_utc": "2026-03-20T11:55:43.729425+00:00",
+  "guncellenme_local": "20.03.2026 12:29:38",
+  "guncellenme_utc": "2026-03-20T12:29:38.893358+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,58 +67,58 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.596,
-      "satis": 44.837
+      "alis": 44.594,
+      "satis": 44.835
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.487,
-      "satis": 51.883
+      "alis": 51.514,
+      "satis": 51.909
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 59.422,
-      "satis": 60.243
+      "alis": 59.461,
+      "satis": 60.28
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2773,
-      "satis": 0.2832
+      "alis": 0.2774,
+      "satis": 0.2833
     },
     {
       "isim": "S. Arabistan Riyali",
       "alis": 11.811,
-      "satis": 11.983
+      "satis": 11.982
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.929,
-      "satis": 31.7
+      "alis": 30.963,
+      "satis": 31.734
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.235,
-      "satis": 32.78
+      "alis": 32.249,
+      "satis": 32.792
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4769,
-      "satis": 0.57
+      "alis": 0.4753,
+      "satis": 0.5681
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.782,
-      "satis": 26.674
+      "alis": 24.781,
+      "satis": 26.673
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.898,
-      "satis": 7.048
+      "alis": 5.896,
+      "satis": 7.045
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.72,
-      "satis": 10.339
+      "alis": 8.724,
+      "satis": 10.344
     },
     {
       "isim": "B.A.E. Dirhemi",
@@ -127,8 +127,8 @@
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.552,
-      "satis": 149.355
+      "alis": 132.557,
+      "satis": 149.357
     }
   ]
 }
