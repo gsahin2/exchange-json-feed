@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "20.03.2026 08:25:43",
-  "guncellenme_utc": "2026-03-20T08:25:43.375484+00:00",
+  "guncellenme_local": "20.03.2026 09:02:38",
+  "guncellenme_utc": "2026-03-20T09:02:38.068543+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,68 +67,68 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.592,
-      "satis": 44.834
+      "alis": 44.585,
+      "satis": 44.828
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.524,
-      "satis": 51.922
+      "alis": 51.461,
+      "satis": 51.858
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 59.612,
-      "satis": 60.437
+      "alis": 59.532,
+      "satis": 60.356
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2779,
-      "satis": 0.2838
+      "alis": 0.2775,
+      "satis": 0.2834
     },
     {
       "isim": "S. Arabistan Riyali",
-      "alis": 11.811,
-      "satis": 11.983
+      "alis": 11.809,
+      "satis": 11.981
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.992,
-      "satis": 31.765
+      "alis": 30.957,
+      "satis": 31.729
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.233,
-      "satis": 32.777
+      "alis": 32.223,
+      "satis": 32.768
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4759,
-      "satis": 0.5688
+      "alis": 0.4772,
+      "satis": 0.5705
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.78,
-      "satis": 26.673
+      "alis": 24.776,
+      "satis": 26.669
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.904,
-      "satis": 7.054
+      "alis": 5.901,
+      "satis": 7.051
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.727,
-      "satis": 10.348
+      "alis": 8.716,
+      "satis": 10.335
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.118,
-      "satis": 12.808
+      "alis": 11.117,
+      "satis": 12.806
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.571,
-      "satis": 149.38
+      "alis": 132.529,
+      "satis": 149.333
     }
   ]
 }
