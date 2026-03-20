@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "20.03.2026 11:00:14",
-  "guncellenme_utc": "2026-03-20T11:00:14.929116+00:00",
+  "guncellenme_local": "20.03.2026 11:32:35",
+  "guncellenme_utc": "2026-03-20T11:32:35.005922+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,68 +67,68 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.591,
-      "satis": 44.838
+      "alis": 44.582,
+      "satis": 44.825
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.436,
-      "satis": 51.838
+      "alis": 51.476,
+      "satis": 51.873
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 59.372,
-      "satis": 60.199
+      "alis": 59.422,
+      "satis": 60.245
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2771,
+      "alis": 0.2772,
       "satis": 0.2831
     },
     {
       "isim": "S. Arabistan Riyali",
-      "alis": 11.81,
-      "satis": 11.983
+      "alis": 11.807,
+      "satis": 11.979
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.873,
-      "satis": 31.646
+      "alis": 30.92,
+      "satis": 31.691
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.206,
-      "satis": 32.754
+      "alis": 32.211,
+      "satis": 32.756
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4778,
-      "satis": 0.5713
+      "alis": 0.4759,
+      "satis": 0.5688
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.779,
-      "satis": 26.675
+      "alis": 24.774,
+      "satis": 26.667
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.897,
+      "alis": 5.898,
       "satis": 7.047
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.71,
-      "satis": 10.329
+      "alis": 8.718,
+      "satis": 10.338
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.118,
-      "satis": 12.809
+      "alis": 11.116,
+      "satis": 12.805
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.5,
-      "satis": 149.314
+      "alis": 132.503,
+      "satis": 149.305
     }
   ]
 }
