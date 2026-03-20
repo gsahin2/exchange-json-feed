@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "20.03.2026 20:02:14",
-  "guncellenme_utc": "2026-03-20T20:02:14.290692+00:00",
+  "guncellenme_local": "20.03.2026 20:39:53",
+  "guncellenme_utc": "2026-03-20T20:39:53.706242+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,18 +67,18 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.6,
-      "satis": 44.863
+      "alis": 44.586,
+      "satis": 44.87
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.451,
-      "satis": 51.871
+      "alis": 51.459,
+      "satis": 51.903
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 59.197,
-      "satis": 60.043
+      "alis": 59.179,
+      "satis": 60.053
     },
     {
       "isim": "Japon Yeni",
@@ -87,48 +87,48 @@
     },
     {
       "isim": "S. Arabistan Riyali",
-      "alis": 11.813,
-      "satis": 11.99
+      "alis": 11.809,
+      "satis": 11.992
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.678,
-      "satis": 31.458
+      "alis": 30.665,
+      "satis": 31.459
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.236,
-      "satis": 32.796
+      "alis": 32.208,
+      "satis": 32.782
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.4819,
-      "satis": 0.5763
+      "alis": 0.4818,
+      "satis": 0.5764
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.784,
-      "satis": 26.689
+      "alis": 24.777,
+      "satis": 26.694
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.885,
+      "alis": 5.882,
       "satis": 7.035
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.72,
-      "satis": 10.344
+      "alis": 8.722,
+      "satis": 10.351
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.119,
-      "satis": 12.814
+      "alis": 11.115,
+      "satis": 12.816
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 132.461,
-      "satis": 149.323
+      "alis": 132.425,
+      "satis": 149.353
     }
   ]
 }
