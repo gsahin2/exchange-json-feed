@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "28.03.2026 05:25:00",
-  "guncellenme_utc": "2026-03-28T05:25:00.231606+00:00",
+  "guncellenme_local": "28.03.2026 06:14:00",
+  "guncellenme_utc": "2026-03-28T06:14:00.084658+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -26,7 +26,7 @@
     {
       "isim": "Çeyrek Altın",
       "alis": 10717.73,
-      "satis": 13200.0
+      "satis": 13000.0
     },
     {
       "isim": "Yarım Altın",
@@ -61,7 +61,7 @@
     {
       "isim": "Gram Altın",
       "alis": 6576.59,
-      "satis": 7000.0
+      "satis": 6950.0
     }
   ],
   "dovizler": [
