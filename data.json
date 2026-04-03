@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "03.04.2026 19:00:21",
-  "guncellenme_utc": "2026-04-03T19:00:21.707852+00:00",
+  "guncellenme_local": "03.04.2026 19:38:27",
+  "guncellenme_utc": "2026-04-03T19:38:27.016029+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -10,79 +10,79 @@
   "altinlar": [
     {
       "isim": "Has Toptan",
-      "alis": 6811.02,
-      "satis": 6855.8
+      "alis": 6810.92,
+      "satis": 6856.09
     },
     {
       "isim": "Külçe Toptan",
-      "alis": 6776.96,
-      "satis": 6821.52
+      "alis": 6776.87,
+      "satis": 6821.81
     },
     {
       "isim": "Ata Cumhuriyet",
-      "alis": 45183.05,
+      "alis": 45182.44,
       "satis": 49000.0
     },
     {
       "isim": "Çeyrek Altın",
-      "alis": 11044.28,
+      "alis": 11044.13,
       "satis": 12000.0
     },
     {
       "isim": "Yarım Altın",
-      "alis": 21915.83,
+      "alis": 21915.54,
       "satis": 24000.0
     },
     {
       "isim": "Teklik Altın",
-      "alis": 43792.31,
+      "alis": 43791.72,
       "satis": 48000.0
     },
     {
       "isim": "Gremse Altın",
-      "alis": 109251.21,
+      "alis": 109249.74,
       "satis": 120000.0
     },
     {
       "isim": "Ata Beşli",
-      "alis": 223528.41,
+      "alis": 223525.41,
       "satis": 245000.0
     },
     {
       "isim": "Resat Altın",
-      "alis": 44921.85,
+      "alis": 44921.24,
       "satis": 49000.0
     },
     {
       "isim": "Hamit Altın",
-      "alis": 44921.85,
+      "alis": 44921.24,
       "satis": 49000.0
     },
     {
       "isim": "Gram Altın",
-      "alis": 6776.96,
+      "alis": 6776.87,
       "satis": 7000.0
     }
   ],
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 44.48,
-      "satis": 44.682
+      "alis": 44.479,
+      "satis": 44.684
     },
     {
       "isim": "Avrupa Para Birimi",
       "alis": 51.053,
-      "satis": 51.42
+      "satis": 51.423
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 58.396,
-      "satis": 59.151
+      "alis": 58.404,
+      "satis": 59.163
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2747,
+      "alis": 0.2748,
       "satis": 0.2804
     },
     {
@@ -92,13 +92,13 @@
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.029,
-      "satis": 30.751
+      "alis": 30.016,
+      "satis": 30.739
     },
     {
       "isim": "Kanada Doları",
-      "alis": 31.624,
-      "satis": 32.13
+      "alis": 31.617,
+      "satis": 32.124
     },
     {
       "isim": "Rus Rublesi",
@@ -107,28 +107,28 @@
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 24.718,
-      "satis": 26.582
+      "alis": 24.717,
+      "satis": 26.583
     },
     {
       "isim": "Çin Yuanı",
       "alis": 5.886,
-      "satis": 7.026
+      "satis": 7.027
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.653,
-      "satis": 10.251
+      "alis": 8.654,
+      "satis": 10.252
     },
     {
       "isim": "B.A.E. Dirhemi",
       "alis": 11.089,
-      "satis": 12.762
+      "satis": 12.763
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 125.097,
-      "satis": 147.405
+      "alis": 125.096,
+      "satis": 147.411
     }
   ]
 }
