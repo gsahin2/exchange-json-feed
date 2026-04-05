@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "05.04.2026 21:55:30",
-  "guncellenme_utc": "2026-04-05T21:55:30.283897+00:00",
+  "guncellenme_local": "05.04.2026 22:17:23",
+  "guncellenme_utc": "2026-04-05T22:17:23.030573+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -72,17 +72,17 @@
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 51.113,
-      "satis": 51.389
+      "alis": 51.065,
+      "satis": 51.341
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 58.428,
-      "satis": 59.078
+      "alis": 58.397,
+      "satis": 59.047
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2748,
+      "alis": 0.2747,
       "satis": 0.2799
     },
     {
@@ -92,13 +92,13 @@
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 30.03,
-      "satis": 30.697
+      "alis": 30.009,
+      "satis": 30.675
     },
     {
       "isim": "Kanada Doları",
-      "alis": 31.652,
-      "satis": 32.102
+      "alis": 31.636,
+      "satis": 32.086
     },
     {
       "isim": "Rus Rublesi",
@@ -112,13 +112,13 @@
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 5.887,
-      "satis": 7.016
+      "alis": 5.889,
+      "satis": 7.018
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.662,
-      "satis": 10.243
+      "alis": 8.654,
+      "satis": 10.234
     },
     {
       "isim": "B.A.E. Dirhemi",
