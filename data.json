@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "18.04.2026 05:20:02",
-  "guncellenme_utc": "2026-04-18T05:20:02.810786+00:00",
+  "guncellenme_local": "18.04.2026 06:40:16",
+  "guncellenme_utc": "2026-04-18T06:40:16.887882+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -61,7 +61,7 @@
     {
       "isim": "Gram Altın",
       "alis": 6905.74,
-      "satis": 7150.0
+      "satis": 7100.0
     }
   ],
   "dovizler": [
