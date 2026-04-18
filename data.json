@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "18.04.2026 06:40:16",
-  "guncellenme_utc": "2026-04-18T06:40:16.887882+00:00",
+  "guncellenme_local": "18.04.2026 07:44:20",
+  "guncellenme_utc": "2026-04-18T07:44:20.208196+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -10,57 +10,57 @@
   "altinlar": [
     {
       "isim": "Has Toptan",
-      "alis": 6940.45,
-      "satis": 6983.71
+      "alis": 6945.31,
+      "satis": 6987.89
     },
     {
       "isim": "Külçe Toptan",
-      "alis": 6905.74,
-      "satis": 6948.79
+      "alis": 6910.58,
+      "satis": 6952.95
     },
     {
       "isim": "Ata Cumhuriyet",
-      "alis": 46041.67,
+      "alis": 46073.92,
       "satis": 50000.0
     },
     {
       "isim": "Çeyrek Altın",
-      "alis": 11259.72,
+      "alis": 11267.61,
       "satis": 12000.0
     },
     {
       "isim": "Yarım Altın",
-      "alis": 22332.3,
+      "alis": 22347.94,
       "satis": 24000.0
     },
     {
       "isim": "Teklik Altın",
-      "alis": 44624.5,
+      "alis": 44655.76,
       "satis": 48000.0
     },
     {
       "isim": "Gremse Altın",
-      "alis": 111327.32,
+      "alis": 111405.31,
       "satis": 120000.0
     },
     {
       "isim": "Ata Beşli",
-      "alis": 227776.15,
+      "alis": 227935.71,
       "satis": 250000.0
     },
     {
       "isim": "Resat Altın",
-      "alis": 45775.5,
+      "alis": 45807.57,
       "satis": 50000.0
     },
     {
       "isim": "Hamit Altın",
-      "alis": 45775.5,
+      "alis": 45807.57,
       "satis": 50000.0
     },
     {
       "isim": "Gram Altın",
-      "alis": 6905.74,
+      "alis": 6910.58,
       "satis": 7100.0
     }
   ],
