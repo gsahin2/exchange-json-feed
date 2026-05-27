@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "26.05.2026 23:44:10",
-  "guncellenme_utc": "2026-05-26T23:44:10.332812+00:00",
+  "guncellenme_local": "27.05.2026 01:51:17",
+  "guncellenme_utc": "2026-05-27T01:51:17.885459+00:00",
   "counts": {
     "altinlar": 11,
     "dovizler": 13,
@@ -67,23 +67,23 @@
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 45.657,
-      "satis": 45.901
+      "alis": 45.658,
+      "satis": 45.903
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 52.954,
-      "satis": 53.424
+      "alis": 52.933,
+      "satis": 53.404
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 61.059,
-      "satis": 61.928
+      "alis": 61.01,
+      "satis": 61.88
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2828,
-      "satis": 0.2887
+      "alis": 0.2827,
+      "satis": 0.2886
     },
     {
       "isim": "S. Arabistan Riyali",
@@ -92,43 +92,43 @@
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 32.091,
-      "satis": 32.897
+      "alis": 32.024,
+      "satis": 32.83
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.785,
-      "satis": 33.336
+      "alis": 32.767,
+      "satis": 33.318
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.5709,
-      "satis": 0.6824
+      "alis": 0.5708,
+      "satis": 0.6822
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 25.372,
-      "satis": 27.307
+      "alis": 25.373,
+      "satis": 27.308
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 6.133,
-      "satis": 7.327
+      "alis": 6.134,
+      "satis": 7.328
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.738,
-      "satis": 10.36
+      "alis": 8.735,
+      "satis": 10.356
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.385,
+      "alis": 11.384,
       "satis": 13.113
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 128.346,
-      "satis": 151.352
+      "alis": 128.35,
+      "satis": 151.359
     }
   ]
 }
