@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "27.06.2026 12:57:42",
-  "guncellenme_utc": "2026-06-27T12:57:42.266448+00:00",
+  "guncellenme_local": "27.06.2026 14:23:38",
+  "guncellenme_utc": "2026-06-27T14:23:38.229939+00:00",
   "counts": {
     "altinlar": 4,
     "dovizler": 13,
@@ -72,28 +72,28 @@
     },
     {
       "isim": "Azerbaycan Manatı",
-      "alis": 25.845,
-      "satis": 27.77
+      "alis": 25.95,
+      "satis": 27.55
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 6.229,
-      "satis": 7.43
+      "alis": 6.23,
+      "satis": 7.27
     },
     {
       "isim": "Romanya Leyi",
-      "alis": 8.702,
-      "satis": 10.3
+      "alis": 8.98,
+      "satis": 10.27
     },
     {
       "isim": "B.A.E. Dirhemi",
-      "alis": 11.595,
-      "satis": 13.333
+      "alis": 11.95,
+      "satis": 13.35
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 130.681,
-      "satis": 153.847
+      "alis": 139.8,
+      "satis": 153.7
     }
   ]
 }
