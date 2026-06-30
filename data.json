@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "30.06.2026 21:05:08",
-  "guncellenme_utc": "2026-06-30T21:05:08.773442+00:00",
+  "guncellenme_local": "30.06.2026 22:20:16",
+  "guncellenme_utc": "2026-06-30T22:20:16.018489+00:00",
   "counts": {
     "altinlar": 4,
     "dovizler": 13,
@@ -10,22 +10,22 @@
   "altinlar": [
     {
       "isim": "Has Toptan",
-      "alis": 5971.96,
-      "satis": 6045.7
+      "alis": 5983.56,
+      "satis": 6057.45
     },
     {
       "isim": "Külçe Toptan",
-      "alis": 5942.1,
-      "satis": 6017.88
+      "alis": 5953.65,
+      "satis": 6029.58
     },
     {
       "isim": "Ata Cumhuriyet",
-      "alis": 39593.18,
+      "alis": 39670.14,
       "satis": 43650.0
     },
     {
       "isim": "Gram Altın",
-      "alis": 5942.1,
+      "alis": 5953.65,
       "satis": 6210.0
     }
   ],
@@ -37,18 +37,18 @@
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 52.856,
-      "satis": 53.257
+      "alis": 52.86,
+      "satis": 53.261
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 61.273,
-      "satis": 62.079
+      "alis": 61.264,
+      "satis": 62.069
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.2813,
-      "satis": 0.2876
+      "alis": 0.2812,
+      "satis": 0.2875
     },
     {
       "isim": "S. Arabistan Riyali",
@@ -57,18 +57,18 @@
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 31.43,
-      "satis": 32.227
+      "alis": 31.439,
+      "satis": 32.237
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.379,
-      "satis": 32.938
+      "alis": 32.384,
+      "satis": 32.942
     },
     {
       "isim": "Rus Rublesi",
       "alis": 0.5302,
-      "satis": 0.6338
+      "satis": 0.6339
     },
     {
       "isim": "Azerbaycan Manatı",
@@ -77,13 +77,13 @@
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 6.223,
-      "satis": 7.276
+      "alis": 6.224,
+      "satis": 7.277
     },
     {
       "isim": "Romanya Leyi",
       "alis": 8.98,
-      "satis": 10.291
+      "satis": 10.29
     },
     {
       "isim": "B.A.E. Dirhemi",
