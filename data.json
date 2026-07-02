@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "02.07.2026 01:34:45",
-  "guncellenme_utc": "2026-07-02T01:34:45.555630+00:00",
+  "guncellenme_local": "02.07.2026 05:37:22",
+  "guncellenme_utc": "2026-07-02T05:37:22.595160+00:00",
   "counts": {
     "altinlar": 4,
     "dovizler": 13,
@@ -10,90 +10,90 @@
   "altinlar": [
     {
       "isim": "Has Toptan",
-      "alis": 6060.38,
-      "satis": 6113.3
+      "alis": 6078.49,
+      "satis": 6136.14
     },
     {
       "isim": "Külçe Toptan",
-      "alis": 6030.08,
-      "satis": 6085.17
+      "alis": 6048.1,
+      "satis": 6107.9
     },
     {
       "isim": "Ata Cumhuriyet",
-      "alis": 40179.46,
+      "alis": 40299.52,
       "satis": 43750.0
     },
     {
       "isim": "Gram Altın",
-      "alis": 6030.08,
+      "alis": 6048.1,
       "satis": 6280.0
     }
   ],
   "dovizler": [
     {
       "isim": "Amerikan Doları",
-      "alis": 46.489,
-      "satis": 46.679
+      "alis": 46.49,
+      "satis": 46.7
     },
     {
       "isim": "Avrupa Para Birimi",
-      "alis": 52.814,
-      "satis": 53.152
+      "alis": 52.838,
+      "satis": 53.199
     },
     {
       "isim": "İngiliz Sterlini",
-      "alis": 61.393,
-      "satis": 62.183
+      "alis": 61.436,
+      "satis": 62.253
     },
     {
       "isim": "Japon Yeni",
-      "alis": 0.282,
-      "satis": 0.2879
+      "alis": 0.2823,
+      "satis": 0.2883
     },
     {
       "isim": "S. Arabistan Riyali",
       "alis": 12.281,
-      "satis": 12.482
+      "satis": 12.487
     },
     {
       "isim": "Avustralya Doları",
-      "alis": 31.399,
-      "satis": 32.148
+      "alis": 31.395,
+      "satis": 32.158
     },
     {
       "isim": "Kanada Doları",
-      "alis": 32.413,
-      "satis": 32.923
+      "alis": 32.418,
+      "satis": 32.942
     },
     {
       "isim": "Rus Rublesi",
-      "alis": 0.5301,
-      "satis": 0.6328
+      "alis": 0.5364,
+      "satis": 0.6405
     },
     {
       "isim": "Azerbaycan Manatı",
       "alis": 25.939,
-      "satis": 27.55
+      "satis": 27.562
     },
     {
       "isim": "Çin Yuanı",
-      "alis": 6.235,
-      "satis": 7.279
+      "alis": 6.24,
+      "satis": 7.288
     },
     {
       "isim": "Romanya Leyi",
       "alis": 8.993,
-      "satis": 10.29
+      "satis": 10.294
     },
     {
       "isim": "B.A.E. Dirhemi",
       "alis": 11.946,
-      "satis": 13.352
+      "satis": 13.358
     },
     {
       "isim": "Kuveyt Dinarı",
-      "alis": 139.898,
-      "satis": 153.874
+      "alis": 139.901,
+      "satis": 153.943
     }
   ]
 }
