@@ -1,11 +1,11 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "18.07.2026 20:24:14",
-  "guncellenme_utc": "2026-07-18T20:24:14.583089+00:00",
+  "guncellenme_local": "18.07.2026 21:09:23",
+  "guncellenme_utc": "2026-07-18T21:09:23.589292+00:00",
   "counts": {
-    "altinlar": 4,
+    "altinlar": 3,
     "dovizler": 13,
-    "toplam": 17
+    "toplam": 16
   },
   "altinlar": [
     {
@@ -19,14 +19,9 @@
       "satis": 6096.98
     },
     {
-      "isim": "Ata Cumhuriyet",
-      "alis": 40149.9,
+      "isim": "Hamit Altın",
+      "alis": 39960.76,
       "satis": 43250.0
-    },
-    {
-      "isim": "Gram Altın",
-      "alis": 6055.85,
-      "satis": 6187.0
     }
   ],
   "dovizler": [
