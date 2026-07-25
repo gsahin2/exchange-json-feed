@@ -1,7 +1,7 @@
 {
   "source": "altinkaynak",
-  "guncellenme_local": "25.07.2026 11:06:17",
-  "guncellenme_utc": "2026-07-25T11:06:17.340642+00:00",
+  "guncellenme_local": "25.07.2026 12:06:58",
+  "guncellenme_utc": "2026-07-25T12:06:58.533334+00:00",
   "counts": {
     "altinlar": 4,
     "dovizler": 13,
@@ -10,23 +10,23 @@
   "altinlar": [
     {
       "isim": "Has Toptan",
-      "alis": 6144.81,
-      "satis": 6175.54
+      "alis": 6147.89,
+      "satis": 6178.01
     },
     {
       "isim": "Külçe Toptan",
-      "alis": 6114.08,
-      "satis": 6144.66
+      "alis": 6117.15,
+      "satis": 6147.12
     },
     {
       "isim": "Ata Cumhuriyet",
-      "alis": 40536.03,
-      "satis": 43565.0
+      "alis": 40527.88,
+      "satis": 43580.0
     },
     {
       "isim": "Gram Altın",
-      "alis": 6114.08,
-      "satis": 6235.0
+      "alis": 6117.15,
+      "satis": 6240.0
     }
   ],
   "dovizler": [
